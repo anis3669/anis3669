@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anis3669
-- 👀 I’m interested in Ethical hacking and cyber security
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning CSIT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me anisbastola (insta)
+- 📫 How to reach me anisbastola (instagram)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
