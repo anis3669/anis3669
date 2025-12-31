@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @anis3669
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning CSIT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me anisbastola (instagram)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I like learning how systems work by breaking and fixing them. For me, good software is simple, useful, and built with real people in mind.
+I’m interested in building thoughtful, reliable software by understanding systems at a deeper level. I value clarity, usability, and continuous learning.
 
-<!---
-anis3669/anis3669 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
