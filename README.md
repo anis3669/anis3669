@@ -1,4 +1,4 @@
-# anis
+# Anis Bastola
 # 💫 About Me:
 🔭 I’m currently working on Laravel & Filament based full stack web applications.<br>👯 I’m looking to collaborate on Laravel and PHP full stack web development projects.<br>🤝 I’m looking for help with advanced Laravel concepts and deployment.<br>🌱 I’m currently learning advanced Laravel, Filament and REST API development.<br>💬 Ask me about HTML, CSS, PHP, Laravel, Filament and MySQL.<br>⚡ Fun fact: Ask me about HTML, CSS, PHP, Laravel, Filament and MySQL.
 
@@ -12,5 +12,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=anis3669&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anis3669&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anis3669&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
