@@ -1,5 +1,5 @@
 # About Me:
-I’m currently building full-stack web apps with **VUE** **Laravel** & **Filament**<br>-  I’m leveling up in advanced Laravel, Filament admin panels, and REST API design<br>-  I’m open to collaborating on Laravel/PHP full-stack projects<br>-  I’d love guidance on advanced Laravel architecture and production deployment<br>-  Ask me about HTML, CSS, PHP,VUE, Laravel, Filament, or MySQL 
+-I’m currently building full-stack web apps with **VUE** **Laravel** & **Filament**<br>-  I’m leveling up in advanced Laravel, Filament admin panels, and REST API design<br>-  I’m open to collaborating on Laravel/PHP full-stack projects<br>-  I’d love guidance on advanced Laravel architecture and production deployment<br>-  Ask me about HTML, CSS, PHP,VUE, Laravel, Filament, or MySQL 
 
 
 ## 🌐 Socials:
